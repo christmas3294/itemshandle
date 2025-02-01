@@ -1,0 +1,21 @@
+#name: DuckPokemonBingo
+#version: '${version}'
+#main: com.duckfox.duckpokemonbingo.DuckPokemonBingo
+#authors: [Duck_fox]
+##commands:
+##  duckpokemonbingo:
+##    aliases: dpb
+#commands:
+#  ms:
+#    usage: /ms
+#    description: 开始扫雷
+name: pokemonZdziszkeeTrade
+depend: [Vault]
+main: com.duckfox.duckpokemonbingo.DoubleJump
+version: 1.3.4
+author: Zdziszkee
+commands:
+  switchstate:
+    description: Toggle your switch state.
+    usage: /switchstate
+description: This plugin adds trading system for your server !

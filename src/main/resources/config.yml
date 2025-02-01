@@ -1,0 +1,5 @@
+trades:
+  title:  "交易列表"
+  tradetitle:  "当前交易玩家"
+  playertitle: "交易玩家"
+  submit: "确认交易"
