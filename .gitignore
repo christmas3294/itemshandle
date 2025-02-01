@@ -6,3 +6,4 @@
 build
 .idea
 Pull-Commit-Push.bat
+/src/main/java/

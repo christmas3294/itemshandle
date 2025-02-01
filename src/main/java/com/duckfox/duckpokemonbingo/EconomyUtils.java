@@ -27,7 +27,7 @@ public class EconomyUtils {
 
     // 给玩家添加余额
     public static boolean deposit(Player player, double amount) {
-        player.sendMessage("获取 " + amount +"金币");
+      //  player.sendMessage("获取 " + amount +"金币");
         //System.out.println("给玩家添加余额"+amount);
         if (econ != null) {
             return econ.depositPlayer(player, amount).transactionSuccess();
