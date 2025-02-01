@@ -9,9 +9,9 @@
 #  ms:
 #    usage: /ms
 #    description: 开始扫雷
-name: pokemonZdziszkeeTrade
+name: pokemonitem
 depend: [Vault]
-main: com.duckfox.duckpokemonbingo.DoubleJump
+main: com.duckfox.duckpokemonbingo.ZdziszkeeTrade
 version: 1.3.4
 author: Zdziszkee
 commands:
